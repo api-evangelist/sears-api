@@ -1,0 +1,62 @@
+{
+    "name": "Sears API",
+    "description": "Welcome to the Sears Facebook page!     If you have a customer service issue, please send us a private message with:  - Details of your experience  - Your phone number  - Your mailing address    If you are not the account holder, please verify your rel...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10371-sears-api.jpg",
+    "tags": [
+        "api lifeycle",
+        "api tools",
+        "cosmetics",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sears-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sears API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10371-sears-api.jpg",
+            "humanURL": "https:\/\/sears.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sears-api-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.developer.sears.com"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/developer.sears.com\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sears"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.sears.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SearsAPI"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Sears"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/sears.com"
+        }
+    ]
+}
